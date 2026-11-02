@@ -1,5 +1,5 @@
 {
-  "originHash" : "e59d145c87f92adee87a07d22824e6e1bda6c46ad775e74329ce0973af89ffaa",
+  "originHash" : "9e59945539c56c27104c8535178871c2042fe44b4f66cca7752b33469b5ed730",
   "pins" : [
     {
       "identity" : "boogu-image-swift",
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/xocialize/mlx-engine-swift.git",
       "state" : {
-        "revision" : "0ea5fe69706e1a13cd0944319cc487d4fd8dd243",
-        "version" : "0.73.0"
+        "revision" : "46041603fef7b6378e26753e326828ae71b79ddf",
+        "version" : "0.73.1"
       }
     },
     {

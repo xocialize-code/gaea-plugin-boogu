@@ -254,7 +254,7 @@ func offerModel(_ variant: Variant) -> JSONValue {
 
 public let booguPlugin = GaeaPluginDefinition(
     id: "com.xocialize.gaea.boogu",
-    version: "0.1.0",
+    version: "0.1.1",
     minGaea: "0.7.0",
     team: "CFZS6RXUCP",
     repo: "https://github.com/xocialize-code/gaea-plugin-boogu",
